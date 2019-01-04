@@ -2,12 +2,12 @@
 
 Projects built with Angular 6 & Typescript
 
-    1. Recipe Book
+1. Recipe Book
 
-    2. Server Runtime 
+2. Server Runtime 
 
-    3. Odds & Evens
+3. Odds & Evens
 
-    4. Account Status
+4. Account Status
 
-    5. Server Manager
+5. Server Manager
